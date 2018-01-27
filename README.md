@@ -10,6 +10,6 @@ Build a simple web crawler to crawl the website www.bostonglobe.com using an exi
 3. Count of HTTP status codes encountered during crawling
    Count of status codes - 200 (OK), 301 (Moved Permanently), 401 (Unauthorized), 403 (Forbidden), and 404 (Not Found).
 4. Statistics about file sizes of visited URLs
-   The number of files in each size range - 1KB = 1024B; 1MB = 1024KB.
+   The number of files in each size range - < 1KB, 1KB ~ <10KB, 10KB ~ <100KB, 100KB ~ <1MB, and >=1MB.
 5. A list of the different content-types encountered like text/html, image/gif, image/jpeg, image/png, application/pdf.
    
