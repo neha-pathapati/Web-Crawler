@@ -13,3 +13,4 @@ Build a simple web crawler to crawl the website www.bostonglobe.com using an exi
    The number of files in each size range - < 1KB, 1KB ~ <10KB, 10KB ~ <100KB, 100KB ~ <1MB, and >=1MB.
 5. A list of the different content-types encountered like text/html, image/gif, image/jpeg, image/png, application/pdf.
    
+For a detailed description, read: Crawler4jinstallation.pdf, CrawlerExcercise.pdf
